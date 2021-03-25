@@ -99,7 +99,7 @@ python-libsbml==5.18.0
 python-libsbml-experimental==5.18.0
 pytz==2019.1
 PyUtilib==5.7.2
-PyYAML==5.1.2
+PyYAML==5.4
 pyzmq==18.0.2
 qtconsole==4.6.0
 redis==3.3.11
